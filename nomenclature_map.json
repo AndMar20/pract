@@ -1,0 +1,610 @@
+{
+    "0": {
+        "nomenclatureId": "1",
+        "nomenclature": "Аккумуляторная дрель-шуруповерт"
+    },
+    "1": {
+        "nomenclatureId": "10",
+        "nomenclature": "Электрический лобзик"
+    },
+    "2": {
+        "nomenclatureId": "100",
+        "nomenclature": "Шуруповерт аккумуляторный 12 В"
+    },
+    "3": {
+        "nomenclatureId": "101",
+        "nomenclature": "Трос стальной"
+    },
+    "4": {
+        "nomenclatureId": "102",
+        "nomenclature": "Электроды"
+    },
+    "5": {
+        "nomenclatureId": "103",
+        "nomenclature": "Плитка керамическая"
+    },
+    "6": {
+        "nomenclatureId": "104",
+        "nomenclature": "Уголок стальной"
+    },
+    "7": {
+        "nomenclatureId": "105",
+        "nomenclature": "Песок строительный"
+    },
+    "8": {
+        "nomenclatureId": "106",
+        "nomenclature": "Леска рыболовная"
+    },
+    "9": {
+        "nomenclatureId": "107",
+        "nomenclature": "Гвозди"
+    },
+    "10": {
+        "nomenclatureId": "108",
+        "nomenclature": "Шлифовальная бумага"
+    },
+    "11": {
+        "nomenclatureId": "109",
+        "nomenclature": "Аккумулятор"
+    },
+    "12": {
+        "nomenclatureId": "11",
+        "nomenclature": "Электрический степлер"
+    },
+    "13": {
+        "nomenclatureId": "110",
+        "nomenclature": "Лампа светодиодная"
+    },
+    "14": {
+        "nomenclatureId": "111",
+        "nomenclature": "Ремень приводной"
+    },
+    "15": {
+        "nomenclatureId": "112",
+        "nomenclature": "Шурупы"
+    },
+    "16": {
+        "nomenclatureId": "113",
+        "nomenclature": "Миксер"
+    },
+    "17": {
+        "nomenclatureId": "114",
+        "nomenclature": "Цемент"
+    },
+    "18": {
+        "nomenclatureId": "115",
+        "nomenclature": "Лестница алюминиевая"
+    },
+    "19": {
+        "nomenclatureId": "116",
+        "nomenclature": "Подшипник"
+    },
+    "20": {
+        "nomenclatureId": "117",
+        "nomenclature": "Пилка по дереву"
+    },
+    "21": {
+        "nomenclatureId": "118",
+        "nomenclature": "Дрель"
+    },
+    "22": {
+        "nomenclatureId": "119",
+        "nomenclature": "Генератор"
+    },
+    "23": {
+        "nomenclatureId": "12",
+        "nomenclature": "Мойка высокого давления"
+    },
+    "24": {
+        "nomenclatureId": "120",
+        "nomenclature": "Молоток"
+    },
+    "25": {
+        "nomenclatureId": "121",
+        "nomenclature": "Планшет"
+    },
+    "26": {
+        "nomenclatureId": "122",
+        "nomenclature": "Сканер"
+    },
+    "27": {
+        "nomenclatureId": "123",
+        "nomenclature": "Мобильный телефон"
+    },
+    "28": {
+        "nomenclatureId": "124",
+        "nomenclature": "Монитор"
+    },
+    "29": {
+        "nomenclatureId": "125",
+        "nomenclature": "Кабель электрический"
+    },
+    "30": {
+        "nomenclatureId": "126",
+        "nomenclature": "Компьютер"
+    },
+    "31": {
+        "nomenclatureId": "127",
+        "nomenclature": "Принтер"
+    },
+    "32": {
+        "nomenclatureId": "128",
+        "nomenclature": "Мультиметр"
+    },
+    "33": {
+        "nomenclatureId": "129",
+        "nomenclature": "Лазерный уровень"
+    },
+    "34": {
+        "nomenclatureId": "13",
+        "nomenclature": "Шлифовальная ленточная машина"
+    },
+    "35": {
+        "nomenclatureId": "130",
+        "nomenclature": "Круглый металл"
+    },
+    "36": {
+        "nomenclatureId": "131",
+        "nomenclature": "Кабель витая пара"
+    },
+    "37": {
+        "nomenclatureId": "132",
+        "nomenclature": "Шуруповерт"
+    },
+    "38": {
+        "nomenclatureId": "133",
+        "nomenclature": "Пила циркулярная"
+    },
+    "39": {
+        "nomenclatureId": "134",
+        "nomenclature": "Отбойный молоток"
+    },
+    "40": {
+        "nomenclatureId": "135",
+        "nomenclature": "Набор ключей"
+    },
+    "41": {
+        "nomenclatureId": "136",
+        "nomenclature": "Генератор инверторный"
+    },
+    "42": {
+        "nomenclatureId": "137",
+        "nomenclature": "Комплект проводов"
+    },
+    "43": {
+        "nomenclatureId": "138",
+        "nomenclature": "Микро-усилитель"
+    },
+    "44": {
+        "nomenclatureId": "139",
+        "nomenclature": "Термопара"
+    },
+    "45": {
+        "nomenclatureId": "14",
+        "nomenclature": "Шлифмашина вибрационная"
+    },
+    "46": {
+        "nomenclatureId": "140",
+        "nomenclature": "Штатив для фотоаппарата"
+    },
+    "47": {
+        "nomenclatureId": "141",
+        "nomenclature": "Резак для плитки"
+    },
+    "48": {
+        "nomenclatureId": "142",
+        "nomenclature": "Дрель-шуруповерт"
+    },
+    "49": {
+        "nomenclatureId": "143",
+        "nomenclature": "Ножницы по металлу"
+    },
+    "50": {
+        "nomenclatureId": "144",
+        "nomenclature": "Термометр"
+    },
+    "51": {
+        "nomenclatureId": "145",
+        "nomenclature": "Трещотка"
+    },
+    "52": {
+        "nomenclatureId": "146",
+        "nomenclature": "Удлинитель"
+    },
+    "53": {
+        "nomenclatureId": "147",
+        "nomenclature": "Паяльник"
+    },
+    "54": {
+        "nomenclatureId": "148",
+        "nomenclature": "Шлифмашина угловая"
+    },
+    "55": {
+        "nomenclatureId": "149",
+        "nomenclature": "Машина для шлифования"
+    },
+    "56": {
+        "nomenclatureId": "15",
+        "nomenclature": "Генератор бензиновый"
+    },
+    "57": {
+        "nomenclatureId": "150",
+        "nomenclature": "Ремонтный комплект"
+    },
+    "58": {
+        "nomenclatureId": "151",
+        "nomenclature": "Болгарка"
+    },
+    "59": {
+        "nomenclatureId": "152",
+        "nomenclature": "УШМ"
+    },
+    "60": {
+        "nomenclatureId": "16",
+        "nomenclature": "Триммер бензиновый"
+    },
+    "61": {
+        "nomenclatureId": "17",
+        "nomenclature": "Фен технический"
+    },
+    "62": {
+        "nomenclatureId": "18",
+        "nomenclature": "Строительный миксер"
+    },
+    "63": {
+        "nomenclatureId": "19",
+        "nomenclature": "Отбойный молоток"
+    },
+    "64": {
+        "nomenclatureId": "2",
+        "nomenclature": "Сварочный инвертор"
+    },
+    "65": {
+        "nomenclatureId": "20",
+        "nomenclature": "Электрическая тепловая пушка"
+    },
+    "66": {
+        "nomenclatureId": "21",
+        "nomenclature": "Пылесос строительный"
+    },
+    "67": {
+        "nomenclatureId": "22",
+        "nomenclature": "Дальномер лазерный"
+    },
+    "68": {
+        "nomenclatureId": "23",
+        "nomenclature": "Набор отверток"
+    },
+    "69": {
+        "nomenclatureId": "24",
+        "nomenclature": "Рулетка измерительная"
+    },
+    "70": {
+        "nomenclatureId": "25",
+        "nomenclature": "Ключ разводной"
+    },
+    "71": {
+        "nomenclatureId": "26",
+        "nomenclature": "Тиски слесарные"
+    },
+    "72": {
+        "nomenclatureId": "27",
+        "nomenclature": "Штангенциркуль цифровой"
+    },
+    "73": {
+        "nomenclatureId": "28",
+        "nomenclature": "Паяльник электрический"
+    },
+    "74": {
+        "nomenclatureId": "29",
+        "nomenclature": "Набор сверл по металлу"
+    },
+    "75": {
+        "nomenclatureId": "3",
+        "nomenclature": "Перфоратор ударный"
+    },
+    "76": {
+        "nomenclatureId": "30",
+        "nomenclature": "Диск алмазный отрезной"
+    },
+    "77": {
+        "nomenclatureId": "31",
+        "nomenclature": "Мультитул многофункциональный"
+    },
+    "78": {
+        "nomenclatureId": "32",
+        "nomenclature": "Резак газовый"
+    },
+    "79": {
+        "nomenclatureId": "33",
+        "nomenclature": "Молоток слесарный"
+    },
+    "80": {
+        "nomenclatureId": "34",
+        "nomenclature": "Плоскогубцы комбинированные"
+    },
+    "81": {
+        "nomenclatureId": "35",
+        "nomenclature": "Струбцина металлическая"
+    },
+    "82": {
+        "nomenclatureId": "36",
+        "nomenclature": "Распылитель садовый ручной"
+    },
+    "83": {
+        "nomenclatureId": "37",
+        "nomenclature": "Опрыскиватель помповый"
+    },
+    "84": {
+        "nomenclatureId": "38",
+        "nomenclature": "Грабли веерные"
+    },
+    "85": {
+        "nomenclatureId": "39",
+        "nomenclature": "Лопата штыковая"
+    },
+    "86": {
+        "nomenclatureId": "4",
+        "nomenclature": "Шуруповерт сетевой"
+    },
+    "87": {
+        "nomenclatureId": "40",
+        "nomenclature": "Лопата совковая"
+    },
+    "88": {
+        "nomenclatureId": "41",
+        "nomenclature": "Кусторез электрический"
+    },
+    "89": {
+        "nomenclatureId": "42",
+        "nomenclature": "Электрический триммер"
+    },
+    "90": {
+        "nomenclatureId": "43",
+        "nomenclature": "Автоматический поливочный шланг"
+    },
+    "91": {
+        "nomenclatureId": "44",
+        "nomenclature": "Ручной опрыскиватель"
+    },
+    "92": {
+        "nomenclatureId": "45",
+        "nomenclature": "Бур садовый"
+    },
+    "93": {
+        "nomenclatureId": "46",
+        "nomenclature": "Газовая горелка"
+    },
+    "94": {
+        "nomenclatureId": "47",
+        "nomenclature": "Промышленный фен"
+    },
+    "95": {
+        "nomenclatureId": "48",
+        "nomenclature": "Аккумуляторная цепная пила"
+    },
+    "96": {
+        "nomenclatureId": "49",
+        "nomenclature": "Электрическая цепная пила"
+    },
+    "97": {
+        "nomenclatureId": "5",
+        "nomenclature": "Газонокосилка электрическая"
+    },
+    "98": {
+        "nomenclatureId": "50",
+        "nomenclature": "Пильный диск по дереву"
+    },
+    "99": {
+        "nomenclatureId": "51",
+        "nomenclature": "Кнауф шпаклёвка финишная 20 кг"
+    },
+    "100": {
+        "nomenclatureId": "52",
+        "nomenclature": "Штукатурка цементная 25 кг"
+    },
+    "101": {
+        "nomenclatureId": "53",
+        "nomenclature": "Труба ПНД 32 мм"
+    },
+    "102": {
+        "nomenclatureId": "54",
+        "nomenclature": "Фитинг угловой 32×32"
+    },
+    "103": {
+        "nomenclatureId": "55",
+        "nomenclature": "Кран шаровой 1/2\""
+    },
+    "104": {
+        "nomenclatureId": "56",
+        "nomenclature": "Сифон для раковины"
+    },
+    "105": {
+        "nomenclatureId": "57",
+        "nomenclature": "Гофра сливная 40 мм"
+    },
+    "106": {
+        "nomenclatureId": "58",
+        "nomenclature": "Лейка душевая пластик"
+    },
+    "107": {
+        "nomenclatureId": "59",
+        "nomenclature": "Смеситель для ванны"
+    },
+    "108": {
+        "nomenclatureId": "6",
+        "nomenclature": "Ручная циркулярная пила"
+    },
+    "109": {
+        "nomenclatureId": "60",
+        "nomenclature": "Утеплитель минеральный 50 мм"
+    },
+    "110": {
+        "nomenclatureId": "61",
+        "nomenclature": "Монтажная пена бытовая 750 мл"
+    },
+    "111": {
+        "nomenclatureId": "62",
+        "nomenclature": "Герметик силиконовый прозрачный"
+    },
+    "112": {
+        "nomenclatureId": "63",
+        "nomenclature": "Уровень строительный 600 мм"
+    },
+    "113": {
+        "nomenclatureId": "64",
+        "nomenclature": "Рулетка измерительная 5 м"
+    },
+    "114": {
+        "nomenclatureId": "65",
+        "nomenclature": "Струбцина F-образная 150×50 мм"
+    },
+    "115": {
+        "nomenclatureId": "66",
+        "nomenclature": "Кисть малярная 50 мм"
+    },
+    "116": {
+        "nomenclatureId": "67",
+        "nomenclature": "Валик с ручкой 180 мм"
+    },
+    "117": {
+        "nomenclatureId": "68",
+        "nomenclature": "Плёнка укрывная 4×5 м"
+    },
+    "118": {
+        "nomenclatureId": "69",
+        "nomenclature": "Отбивочный шнур 30 м"
+    },
+    "119": {
+        "nomenclatureId": "7",
+        "nomenclature": "Компрессор воздушный"
+    },
+    "120": {
+        "nomenclatureId": "70",
+        "nomenclature": "Болгарка 180 мм 2000 Вт"
+    },
+    "121": {
+        "nomenclatureId": "71",
+        "nomenclature": "Фен строительный 2000 Вт"
+    },
+    "122": {
+        "nomenclatureId": "72",
+        "nomenclature": "Паяльник 60 Вт"
+    },
+    "123": {
+        "nomenclatureId": "73",
+        "nomenclature": "Мультиметр цифровой"
+    },
+    "124": {
+        "nomenclatureId": "74",
+        "nomenclature": "Удлинитель электрический 5 м"
+    },
+    "125": {
+        "nomenclatureId": "75",
+        "nomenclature": "Лампа светодиодная 12 Вт Е27"
+    },
+    "126": {
+        "nomenclatureId": "76",
+        "nomenclature": "Автоматический выключатель 16А"
+    },
+    "127": {
+        "nomenclatureId": "77",
+        "nomenclature": "Розетка с заземлением"
+    },
+    "128": {
+        "nomenclatureId": "78",
+        "nomenclature": "Кабель ВВГнг 3×1.5"
+    },
+    "129": {
+        "nomenclatureId": "79",
+        "nomenclature": "Термоклеевой пистолет"
+    },
+    "130": {
+        "nomenclatureId": "8",
+        "nomenclature": "Торцовочная пила"
+    },
+    "131": {
+        "nomenclatureId": "80",
+        "nomenclature": "Клей-карандаш для пистолета 11 мм"
+    },
+    "132": {
+        "nomenclatureId": "81",
+        "nomenclature": "Скотч упаковочный прозрачный"
+    },
+    "133": {
+        "nomenclatureId": "82",
+        "nomenclature": "Перчатки трикотажные с ПВХ"
+    },
+    "134": {
+        "nomenclatureId": "83",
+        "nomenclature": "Очки защитные открытые"
+    },
+    "135": {
+        "nomenclatureId": "84",
+        "nomenclature": "Каска строительная белая"
+    },
+    "136": {
+        "nomenclatureId": "85",
+        "nomenclature": "Мешки строительные 120 л"
+    },
+    "137": {
+        "nomenclatureId": "86",
+        "nomenclature": "Тележка строительная 1 колесо"
+    },
+    "138": {
+        "nomenclatureId": "87",
+        "nomenclature": "Лопата совковая металлическая"
+    },
+    "139": {
+        "nomenclatureId": "88",
+        "nomenclature": "Ведро пластиковое 12 л"
+    },
+    "140": {
+        "nomenclatureId": "89",
+        "nomenclature": "Мешалка для дрели 120 мм"
+    },
+    "141": {
+        "nomenclatureId": "9",
+        "nomenclature": "Угловая дрель"
+    },
+    "142": {
+        "nomenclatureId": "90",
+        "nomenclature": "Зубило плоское SDS-plus"
+    },
+    "143": {
+        "nomenclatureId": "91",
+        "nomenclature": "Диск отрезной по металлу 125 мм"
+    },
+    "144": {
+        "nomenclatureId": "92",
+        "nomenclature": "Электрическая пила циркулярная"
+    },
+    "145": {
+        "nomenclatureId": "93",
+        "nomenclature": "Шлифмашина угловая"
+    },
+    "146": {
+        "nomenclatureId": "94",
+        "nomenclature": "Фрезер ручной"
+    },
+    "147": {
+        "nomenclatureId": "95",
+        "nomenclature": "Перфоратор с комплектом буров"
+    },
+    "148": {
+        "nomenclatureId": "96",
+        "nomenclature": "Строительная пена монтажная"
+    },
+    "149": {
+        "nomenclatureId": "97",
+        "nomenclature": "Генератор бензиновый 3.5 кВт"
+    },
+    "150": {
+        "nomenclatureId": "98",
+        "nomenclature": "Лазерный нивелир"
+    },
+    "151": {
+        "nomenclatureId": "99",
+        "nomenclature": "Монтажный пистолет для пены"
+    }
+}
