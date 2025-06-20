@@ -8,7 +8,6 @@ import json
 import os
 from flask_cors import CORS
 from pymorphy2 import MorphAnalyzer
-from ruwordnet import RuWordNet
 
 app = Flask(__name__)
 CORS(app)
@@ -20,8 +19,6 @@ nomenclature_map = {}
 index_lock = threading.Lock()
 
 DIM = 1024
-
-
 
 def load_faiss_index():
     global faiss_index
@@ -52,38 +49,6 @@ def normalize(text: str) -> str:
     lemmatized_words = [morph.parse(word)[0].normal_form for word in words]
     return " ".join(lemmatized_words)
 
-def get_synonyms(word: str) -> set:
-    ruwordnet = RuWordNet()
-    synonyms = set()
-    try:
-        synsets = ruwordnet.synsets(word)
-        for synset in synsets:
-            for lemma in synset.lemmas:
-                synonyms.add(lemma.name)
-        if synonyms:
-            print(f"Синонимы для '{word}': {', '.join(synonyms)}")
-        else:
-            print(f"Синонимов не найдено для '{word}'")
-    except Exception as e:
-        print(f"Ошибка при получении синонимов для слова '{word}': {e}")
-    return synonyms
-
-def expand_query_with_synonyms(query: str) -> str:
-    words = query.split()
-    expanded_query = []
-    
-    for word in words:
-        normalized_word = normalize(word)
-        synonyms = get_synonyms(normalized_word)
-        if synonyms:
-            expanded_query.extend(synonyms)
-        else:
-            expanded_query.append(normalized_word)
-
-    final_query = " ".join(expanded_query)
-    print(f"Расширенный запрос: {final_query}")
-    return final_query
-
 @app.route("/faiss/search", methods=["POST"])
 def search_similar():
     data = request.get_json()
@@ -93,7 +58,6 @@ def search_similar():
     if not query or faiss_index is None:
         return jsonify({"error": "Ошибка запроса или индекс не найден"}), 400
 
-    # expanded_query = expand_query_with_synonyms(query)
     normalize_query = normalize(query)
 
     print(f"Получен запрос на поиск: {normalize_query}")

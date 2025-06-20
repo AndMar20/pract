@@ -1,0 +1,7 @@
+flask
+flask-cors
+sentence-transformers
+pymorphy2
+numpy
+faiss-cpu
+requests
